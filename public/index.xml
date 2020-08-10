@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLU SOC 1120</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>SLU SOC 1120</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2020 Christopher G. Prener</copyright><lastBuildDate>Mon, 28 Oct 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>SLU SOC 1120</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0100</pubDate>
+      <guid>/license/</guid>
+      <description>&lt;h2 id=&#34;creative-commons-attribution-40-international-cc-by-40&#34;&gt;Creative Commons Attribution 4.0 International (CC-BY 4.0)&lt;/h2&gt;
+&lt;p&gt;Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.&lt;/p&gt;
+&lt;h3 id=&#34;using-creative-commons-public-licenses&#34;&gt;Using Creative Commons Public Licenses&lt;/h3&gt;
+&lt;p&gt;Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Considerations for licensors:&lt;/strong&gt; Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. &lt;a href=&#34;http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors&#34;&gt;More considerations for licensors&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Considerations for the public:&lt;/strong&gt; By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. &lt;a href=&#34;http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees&#34;&gt;More considerations for the public&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;creative-commons-attribution-40-international-public-license&#34;&gt;Creative Commons Attribution 4.0 International Public License&lt;/h2&gt;
+&lt;p&gt;By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (&amp;ldquo;Public License&amp;rdquo;). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.&lt;/p&gt;
+&lt;h3 id=&#34;section-1--definitions&#34;&gt;Section 1 – Definitions.&lt;/h3&gt;
+&lt;p&gt;a. &lt;strong&gt;Adapted Material&lt;/strong&gt; means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.&lt;/p&gt;
+&lt;p&gt;b. &lt;strong&gt;Adapter&amp;rsquo;s License&lt;/strong&gt; means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.&lt;/p&gt;
+&lt;p&gt;c. &lt;strong&gt;Copyright and Similar Rights&lt;/strong&gt; means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.&lt;/p&gt;
+&lt;p&gt;d. &lt;strong&gt;Effective Technological Measures&lt;/strong&gt; means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.&lt;/p&gt;
+&lt;p&gt;e. &lt;strong&gt;Exceptions and Limitations&lt;/strong&gt; means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.&lt;/p&gt;
+&lt;p&gt;f. &lt;strong&gt;Licensed Material&lt;/strong&gt; means the artistic or literary work, database, or other material to which the Licensor applied this Public License.&lt;/p&gt;
+&lt;p&gt;g. &lt;strong&gt;Licensed Rights&lt;/strong&gt; means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.&lt;/p&gt;
+&lt;p&gt;h. &lt;strong&gt;Licensor&lt;/strong&gt; means the individual(s) or entity(ies) granting rights under this Public License.&lt;/p&gt;
+&lt;p&gt;i. &lt;strong&gt;Share&lt;/strong&gt; means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.&lt;/p&gt;
+&lt;p&gt;j. &lt;strong&gt;Sui Generis Database Rights&lt;/strong&gt; means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.&lt;/p&gt;
+&lt;p&gt;k. &lt;strong&gt;You&lt;/strong&gt; means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.&lt;/p&gt;
+&lt;h3 id=&#34;section-2--scope&#34;&gt;Section 2 – Scope.&lt;/h3&gt;
+&lt;p&gt;a. &lt;em&gt;&lt;strong&gt;License grant.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:&lt;/p&gt;
+&lt;p&gt;A. reproduce and Share the Licensed Material, in whole or in part; and&lt;/p&gt;
+&lt;p&gt;B. produce, reproduce, and Share Adapted Material.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Exceptions and Limitations.&lt;/strong&gt; For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Term.&lt;/strong&gt; The term of this Public License is specified in Section 6(a).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Media and formats; technical modifications allowed.&lt;/strong&gt; The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Downstream recipients.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A. &lt;strong&gt;Offer from the Licensor – Licensed Material.&lt;/strong&gt; Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.&lt;/p&gt;
+&lt;p&gt;B. &lt;strong&gt;No downstream restrictions.&lt;/strong&gt; You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;No endorsement.&lt;/strong&gt; Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;b. &lt;em&gt;&lt;strong&gt;Other rights.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Patent and trademark rights are not licensed under this Public License.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;section-3--license-conditions&#34;&gt;Section 3 – License Conditions.&lt;/h3&gt;
+&lt;p&gt;Your exercise of the Licensed Rights is expressly made subject to the following conditions.&lt;/p&gt;
+&lt;p&gt;a. &lt;em&gt;&lt;strong&gt;Attribution.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If You Share the Licensed Material (including in modified form), You must:&lt;/p&gt;
+&lt;p&gt;A. retain the following if it is supplied by the Licensor with the Licensed Material:&lt;/p&gt;
+&lt;p&gt;i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);&lt;/p&gt;
+&lt;p&gt;ii. a copyright notice;&lt;/p&gt;
+&lt;p&gt;iii. a notice that refers to this Public License;&lt;/p&gt;
+&lt;p&gt;iv. a notice that refers to the disclaimer of warranties;&lt;/p&gt;
+&lt;p&gt;v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;&lt;/p&gt;
+&lt;p&gt;B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and&lt;/p&gt;
+&lt;p&gt;C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If You Share Adapted Material You produce, the Adapter&amp;rsquo;s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;section-4--sui-generis-database-rights&#34;&gt;Section 4 – Sui Generis Database Rights.&lt;/h3&gt;
+&lt;p&gt;Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:&lt;/p&gt;
+&lt;p&gt;a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;&lt;/p&gt;
+&lt;p&gt;b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and&lt;/p&gt;
+&lt;p&gt;c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.&lt;/p&gt;
+&lt;p&gt;For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.&lt;/p&gt;
+&lt;h3 id=&#34;section-5--disclaimer-of-warranties-and-limitation-of-liability&#34;&gt;Section 5 – Disclaimer of Warranties and Limitation of Liability.&lt;/h3&gt;
+&lt;p&gt;a. &lt;strong&gt;Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;b. &lt;strong&gt;To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.&lt;/p&gt;
+&lt;h3 id=&#34;section-6--term-and-termination&#34;&gt;Section 6 – Term and Termination.&lt;/h3&gt;
+&lt;p&gt;a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.&lt;/p&gt;
+&lt;p&gt;b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;upon express reinstatement by the Licensor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.&lt;/p&gt;
+&lt;p&gt;c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.&lt;/p&gt;
+&lt;p&gt;d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.&lt;/p&gt;
+&lt;h3 id=&#34;section-7--other-terms-and-conditions&#34;&gt;Section 7 – Other Terms and Conditions.&lt;/h3&gt;
+&lt;p&gt;a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.&lt;/p&gt;
+&lt;p&gt;b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.&lt;/p&gt;
+&lt;h3 id=&#34;section-8--interpretation&#34;&gt;Section 8 – Interpretation.&lt;/h3&gt;
+&lt;p&gt;a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.&lt;/p&gt;
+&lt;p&gt;b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.&lt;/p&gt;
+&lt;p&gt;c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.&lt;/p&gt;
+&lt;p&gt;d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at &lt;a href=&#34;http://creativecommons.org/policies&#34;&gt;creativecommons.org/policies&lt;/a&gt;, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.&lt;/p&gt;
+&lt;p&gt;Creative Commons may be contacted at creativecommons.org&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Privacy Policy
+Your privacy is important to us. It is Christopher Prener&amp;rsquo;s policy to respect your privacy regarding any information we may collect from you across our website, &lt;a href=&#34;http://slu-soc1120.github.io&#34;&gt;http://slu-soc1120.github.io&lt;/a&gt;, and other sites we own and operate.&lt;/p&gt;
+&lt;p&gt;We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.&lt;/p&gt;
+&lt;p&gt;We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.&lt;/p&gt;
+&lt;p&gt;We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.&lt;/p&gt;
+&lt;p&gt;You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.&lt;/p&gt;
+&lt;p&gt;Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.&lt;/p&gt;
+&lt;p&gt;This policy is effective as of 10 August 2019.&lt;/p&gt;
+&lt;p&gt;Generated by GetTerms.io&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;1. Terms&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By accessing the website at &lt;a href=&#34;http://slu-soc1120.github.io&#34;&gt;http://slu-soc1120.github.io&lt;/a&gt;, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Use License&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;This work is licensed under a &lt;a href=&#34;/license&#34;&gt;Creative Commons Attribution 4.0 International (CC-BY 4.0) License&lt;/a&gt;. You are free to &lt;strong&gt;share&lt;/strong&gt; (copy and redistribute the material in any medium or format) and &lt;strong&gt;adapt&lt;/strong&gt; (remix, transform, and build upon the material for any purpose, even commercially). The licensor cannot revoke these freedoms as long as you follow the license terms.&lt;/p&gt;
+&lt;p&gt;However, you must provide &lt;strong&gt;attribution&lt;/strong&gt; (you must give appropriate credit, provide a link to the license, and indicate if changes were made). You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.&lt;/p&gt;
+&lt;p&gt;You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.&lt;/p&gt;
+&lt;p&gt;No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.&lt;/p&gt;
+&lt;p&gt;This license applies only to the &lt;strong&gt;content&lt;/strong&gt; of the site and does not apply to Hugo (released under an &lt;a href=&#34;https://gohugo.io/about/license/&#34;&gt;Apache 2.0 License&lt;/a&gt;) or the Academic Theme (released under an &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT License&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Disclaimer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The materials on Christopher Prener&amp;rsquo;s website are provided on an &amp;lsquo;as is&amp;rsquo; basis. Christopher Prener makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.&lt;/p&gt;
+&lt;p&gt;Further, Christopher Prener does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Limitations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In no event shall Christopher Prener or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Christopher Prener&amp;rsquo;s website, even if Christopher Prener or a Christopher Prener authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Accuracy of materials&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The materials appearing on Christopher Prener&amp;rsquo;s website could include technical, typographical, or photographic errors. Christopher Prener does not warrant that any of the materials on its website are accurate, complete or current. Christopher Prener may make changes to the materials contained on its website at any time without notice. However Christopher Prener does not make any commitment to update the materials.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Links&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Christopher Prener has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Christopher Prener of the site. Use of any such linked website is at the user&amp;rsquo;s own risk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Modifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Christopher Prener may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. Governing Law&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These terms and conditions are governed by and construed in accordance with the laws of Missouri and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.&lt;/p&gt;
+&lt;p&gt;Generated by GetTerms.io&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CVOID-19 Pandemic - Modified Plans for Learning</title>
+      <link>/covid19/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>/covid19/</guid>
+      <description>&lt;p&gt;I know a lot of you are worried about your coursework. How can you make the switch to distance learning overnight if you have no practice in it and don’t even know what it means? What if you found comfort and meaning in class discussions and that’s gone now? Will your grades suffer with the shift to online teaching? How will you complete assignments?&lt;/p&gt;
+&lt;p&gt;My goal for this page is to clarify, at least for the context of SOC 1120-02 and 02H, how things are going to change. I hope doing so reduces some of the ambiguity and stress related to this class and the rest of the semester.&lt;/p&gt;
+&lt;h2 id=&#34;focusing-on-what-matters&#34;&gt;Focusing on What Matters&lt;/h2&gt;
+&lt;p&gt;First, though, I think it is important to acknowledge the current situation we are all collectively facing outside of coursework. I assume that all of us are worried about lots of other things, too. This other stuff is huge, existential stuff - the still unknown scale of the CVOID-19 pandemic, the specter of a recession worse than the 2008 one, and the day-to-day unknown of when our lives will return to &amp;ldquo;normal.&amp;rdquo; We’re literally worrying about our physical survival, our mental health, our family’s and friends’ lives, and maybe our family’s finances. Our lives have all been dramatically disrupted almost overnight. Some of us are still working, some of us are taking care of children or older adults, some of us are struggling to make ends meet. We should be honest with ourselves - this is an incredibly significant, stressful, and life-altering event we are all collectively experiencing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of this takes precedence over a semester’s worth of college classes.&lt;/strong&gt; I want to make clear that we should not and cannot continue with coursework as though things are the same, but just online now. We can’t ignore the fact that we are living in a moment of uncertainty and crisis. This means we have to be kind to ourselves and each other. It also means all of us, but especially faculty, need drastically re-calibrate our expectations for what we will learn and achieve in courses this semester. This is important because (1) it’s just true (2) our mental health will suffer if we don’t acknowledge this and try to go on as if everything is normal.&lt;/p&gt;
+&lt;h2 id=&#34;office-hours&#34;&gt;Office Hours&lt;/h2&gt;
+&lt;p&gt;One way in which I am going try and achieve some semblence of normalcy will be remaining available to you in variety of ways. My office hours will remain the same - Tuesdays, 9am to 11am by &lt;a href=&#34;https://calendly.com/chris-prener&#34;&gt;appointment only&lt;/a&gt; and 11am to 12pm. These will all occur via Zoom. If you sign-up for an appointment, I&amp;rsquo;ll email you a link for our Zoom meeting. Details on the drop-in Zoom hour will be available via Google Classroom. Please feel free to stop by as often as you would like, and we can use a breakout room if necessary to speak privately. As always, I&amp;rsquo;ll also remain responsive over email and Google Classroom.&lt;/p&gt;
+&lt;h2 id=&#34;policy-changes&#34;&gt;Policy Changes&lt;/h2&gt;
+&lt;p&gt;Outside of office hours, how will this reality affect our class? I’m making some changes to what you’ll be expected to do and how you’ll be evaluated. My goal is to give you the opportunity to keep learning and engaging with me and each other, but without feeling that the class is a source of stress in your life now. The goal of these changes is to minimize your anxiety and stress while maximizing your opportunity to learn and stay engaged in our learning community.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;There will be no second half participation grade.&lt;/strong&gt; Everyone will receive full credit in that column, and I will no longer collect attendance. That said, coming to class remains an important part of the course. I will record class sessions using Zoom, but I can&amp;rsquo;t guarantee they will work every time. It is also important to establish a routine for yourself, and to find ways to see other people even if it is only virtually. We&amp;rsquo;re going to all get a lot less interaction with other people than we&amp;rsquo;re used to, and so getting up and spending a little time engaged in coursework is going to be beneficial for our mental health.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class meetings will occur via Zoom, and will be shorter.&lt;/strong&gt; We will continue to meet Mondays and Wednesdays at 2:10pm Central Time via Zoom. You will all receive an email shortly with an invitation that will be good for the remainder of the semester. We will conclude class around 3pm each day instead of the scheduled 3:25pm time. Recordings and class materials will continue to be made available via Google Classroom.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;There will be no more readings from Anderson.&lt;/strong&gt; We&amp;rsquo;ll still have some readings from peer-reviewed journal articles, however.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;There will be no second exam.&lt;/strong&gt; This was scheduled for March 23rd, but given the circumstances I am going to give everyone full credit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QHQ assignments will be modified.&lt;/strong&gt; Instead of a three page paper, please turn in an outline with three parts:
+&lt;ol&gt;
+&lt;li&gt;Your question and hypothesis, each 1 sentence in length,&lt;/li&gt;
+&lt;li&gt;ten supporting points, each a 1-3 sentences in length, that outline key parts of your chapter and how they inform your thinking on your question/hypothesis,&lt;/li&gt;
+&lt;li&gt;and a concluding question, also one sentence in length.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QHQ discussions will occur via Zoom.&lt;/strong&gt; We&amp;rsquo;ll run these the same way - I&amp;rsquo;ll move all of you into virtual breakout rooms for discussions, and then we&amp;rsquo;ll all return for some final discussion as a large group. These will occur on April 8th and April 29th &lt;em&gt;as scheduled&lt;/em&gt;. Papers will be due before this session. These sessions may go a bit longer, so please give yourself until 3:15pm on these two days.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Two documentaries will be required viewing.&lt;/strong&gt; These will both be available via streaming from Pius Library.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A exam will still be given during finals week.&lt;/strong&gt; This will be similar to our in-class exams, except that they will occur over Google Forms (for some multiple choice questions) and Google Docs (for a short answer question). This will be timed, and will be facilitated via Google Classroom. The exam will be based on the course meeting materials, the two documentaries, and the remaining readings. It will only cover material starting on March 25th through the last class on May 4th.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modified-schedule&#34;&gt;Modified Schedule&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ll use the following modified schedule:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;March 23rd - Check-in and COVID-19 Discussion&lt;/li&gt;
+&lt;li&gt;March 25th - Social Class in America&lt;/li&gt;
+&lt;li&gt;March 30th - Social Class and Health
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=edselc&amp;amp;AN=edselc.2-52.0-77249121135&amp;amp;site=eds-live&#34;&gt;Dow and Rehkopf 2010&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;April 1st - Race in America&lt;/li&gt;
+&lt;li&gt;April 6th - Racial Discrimination and Health
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=https://www.nejm.org/doi/full/10.1056/NEJMsb022863?url_ver=Z39.88-2003&#34;&gt;Cooper et al. 2003&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/abs/10.1177/0022146510383838&#34;&gt;Williams and Sternthal 2010&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;April 8th - QHQ2 Discussion&lt;/li&gt;
+&lt;li&gt;April 13th - &lt;em&gt;No Class, Easter Break&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;April 15th - Gender and Sexuality&lt;/li&gt;
+&lt;li&gt;April 20th - Gender and Health
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://academic.oup.com/ije/article/32/4/652/666984&#34;&gt;Krieger 2003&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;April 22nd - Indigenous Americans
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2004.054262&#34;&gt;Jones 2006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2567901/&#34;&gt;Sarche and Spicer 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&#34;http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=cat00825a&amp;amp;AN=slu.b4325118&amp;amp;site=eds-live&#34;&gt;&lt;em&gt;Unnatural Causes&lt;/em&gt;, Part 3 - &amp;ldquo;Bad Sugar&amp;rdquo;&lt;/a&gt; after class&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;April 27th - Intersectionality and Health
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=https://www.nejm.org/doi/full/10.1056/NEJM199710233371706&#34;&gt;David and Collins Jr. 1997&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=https://ajph.aphapublications.org/doi/abs/10.2105/ajph.94.12.2132&#34;&gt;Collins Jr. et al 2004&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&#34;http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=cat00825a&amp;amp;AN=slu.b4325118&amp;amp;site=eds-live&#34;&gt;&lt;em&gt;Unnatural Causes&lt;/em&gt;, Part 2 - &amp;ldquo;When the Bough Breaks&amp;rdquo;&lt;/a&gt; after class&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;April 29th - QHQ3 Discussion&lt;/li&gt;
+&lt;li&gt;May 4th - Course Conclusion
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/full/10.1177/0022146510368931&#34;&gt;Quadagno 2010&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezp.slu.edu/login?url=https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0071&#34;&gt;Williams et al. 2010&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;May 11th - Exam 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modified-schedule-for-honors-students&#34;&gt;Modified Schedule for Honors Students&lt;/h2&gt;
+&lt;p&gt;I am also making the following changes to the honors section:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seminar 3 will be rescheduled.&lt;/strong&gt; We will meet to discuss extra readings on Gender, Sexuality, and Health during the week of April 20th. However, there will not be a response paper assignment. I will send out a Doodle during the week of March 23rd to schedule this meeting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Op-Ed assignment will proceed as planned.&lt;/strong&gt; Please continue to work on your writing assignment over the next few weeks and submit a draft by April 15th. The final submission, including to a publication, should be made by May 4th.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seminar 4 will proceed as planned on May 5th to discuss your op-eds.&lt;/strong&gt; This will occur via Zoom.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-happens-if-i-get-sick&#34;&gt;What Happens If I Get Sick?&lt;/h2&gt;
+&lt;p&gt;If you become unwell, or find yourself taking care of your family or friends, please let me know as soon as possible! Even though I am not taking attendance, I want to make sure students are all well prepared for the exam. I also want to make sure that the modified QHQ assignments are completed. If &amp;ldquo;as soon as possible&amp;rdquo; is a few days after a deadline, that is OK. If you need to re-schedule the third exam, that is OK too. I will not ask for documentation, since if you&amp;rsquo;re sick but not &lt;em&gt;very&lt;/em&gt; sick, the last thing most you will want to do is go to a doctor just to get a note. I am proceeding with a spirit of trust in all of you, and ask you reciprocate that with me.&lt;/p&gt;
+&lt;h2 id=&#34;provisos&#34;&gt;Provisos&lt;/h2&gt;
+&lt;p&gt;This is my plan as of March 19th, 2020. I may modify it further as we progress through the remainder of the semester. If I become sick or a member of my family becomes ill, further modifications will likely be required. I will do my best to keep everyone updated in a timely fashion. Please check your email and Google Classroom regularly. I appreciate everyone&amp;rsquo;s willingness to roll with the many punches we are all facing right now. Remember, we are in this together.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;Special thanks to &lt;a href=&#34;https://amycooper.net&#34;&gt;Dr. Amy Cooper&lt;/a&gt; for sharing her language and policies around COVID-19 modifications, which inspired this document.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/docs/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 -0600</pubDate>
+      <guid>/docs/</guid>
+      <description>&lt;p&gt;The Course Docs are meant to be supplementary materials about some of the theories, people, events, and ideas we discuss in class. They aren&amp;rsquo;t required for the course, are a work in progress, and for this semester may not be available for every lecture.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
