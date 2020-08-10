@@ -29,3 +29,16 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+[[docs]]
+  name = "Overview"
+  url = "/docs/"
+  weight = 5 
+
+[[docs]]
+  name = "Getting Started"
+  weight = 10
+  
+[[docs]]
+  name = "Module 1"
+  weight = 20

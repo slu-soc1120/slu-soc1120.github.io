@@ -12,31 +12,31 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "google"
-  icon_pack = "fab"
-  name = "[Google Classroom](https://classroom.google.com)"
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "[Blackboard](https:://blackboard.slu.edu)"
   description = "slides, notes, assignment submission"  
 
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus](https://slu-soc1120.github.io/syllabus/)"
-  description = "policies, schedule"  
+  name = "[Syllabus, Section 01](#)"
+  description = "policies, schedule for Section 01"  
+  
+[[feature]]
+  icon = "book"
+  icon_pack = "fas"
+  name = "[Syllabus, Section 05](#)"
+  description = "policies, schedule for Section 05"  
   
 [[feature]]
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "[Office Hours Sign-up](https://calendly.com/chris-prener)"
-  description = "slots available Tuesdays, 9am-11am"
-  
-[[feature]]
-  icon = "landmark"
-  icon_pack = "fas"
-  name = "[Electronic Reserves](https://libguides.slu.edu/er.php?course_id=53391)"
-  description = "readings via SLU's library"  
+  description = "slots available Thursdays, 9am to 10am"
 
 [[feature]]
   icon = "newspaper"
@@ -49,5 +49,14 @@ subtitle = ""
   icon_pack = "fas"
   name = "[Course Docs](/docs/)"
   description = "related articles, news, and media" 
-    
+
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+# [[feature]]
+#  icon = "your-custom-icon-name"
+#  icon_pack = "custom"
+#  name = "Surfing"
+#  description = "90%"
+
 +++

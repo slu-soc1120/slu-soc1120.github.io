@@ -1,10 +1,14 @@
 +++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Course Description"
+title = "Introduction to Sociology: Diversity & Health"
 subtitle = ""
 
 [design]
@@ -18,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "lightgrey"
+  color = "#666"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -32,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -46,4 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Sociology is the empirical study of group and social life. Like all introductory courses, SOC 1120 provides an overview of the basic topics that sociologists regularly engage with under this broad definition. These include the theories used to hypothesize about the social world, the methods used to explore it, and the most common social phenomena we study. For each topic we discuss, specific examples from the sociology of medicine, the sociology of health and illness, and social epidemiology are used. The course meets Saint Louis University's [Cultural Diversity in the U.S. and Social Science](https://www.slu.edu/arts-and-sciences/student-resources/core-curriculum/core-requirements.php) core curriculum requirements.
+An introduction to the discipline of sociology, with a particular emphasis on health disparities and health care in the United States. This site is for <a href="https://chris-prener.github.io" target="_blank">Chris Prener's</a> sections only.
+
+{{% alert warning %}}
+**COVID-19 Pandemic:** For the Fall 2020 semester, this course has been modified to accomodate remote learning. Please read about the modifications [here](/covid19).
+{{% /alert %}}

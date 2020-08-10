@@ -1,5 +1,5 @@
 ---
-title: CVOID-19 Pandemic - Modified Plans for Learning
+title: CVOID-19 Pandemic - Plans for Remote Learning
 date: "2019-03-19T00:00:00+01:00"
 draft: true
 share: false
@@ -12,75 +12,49 @@ header:
   image: ""
 ---
 
-I know a lot of you are worried about your coursework. How can you make the switch to distance learning overnight if you have no practice in it and don’t even know what it means? What if you found comfort and meaning in class discussions and that’s gone now? Will your grades suffer with the shift to online teaching? How will you complete assignments? 
+We are starting this semester with a ton of questions. Many of you are wondering what campus life will be like with the new social distancing requirements. You may be wondering, or even struggling with, what starting college this semester will be like. What will classes be like in-person? And what about courses that are online, like this one? How am I going to study with my friends? How will you complete assignments? 
 
-My goal for this page is to clarify, at least for the context of SOC 1120-02 and 02H, how things are going to change. I hope doing so reduces some of the ambiguity and stress related to this class and the rest of the semester.
+My goal for this page is to clarify, at least for the context of my SOC 1120 sections, what this course will be like this semester. I hope doing so reduces some of the ambiguity and stress related to this class and your fall semesters.
 
 ## Focusing on What Matters
-First, though, I think it is important to acknowledge the current situation we are all collectively facing outside of coursework. I assume that all of us are worried about lots of other things, too. This other stuff is huge, existential stuff - the still unknown scale of the CVOID-19 pandemic, the specter of a recession worse than the 2008 one, and the day-to-day unknown of when our lives will return to "normal." We’re literally worrying about our physical survival, our mental health, our family’s and friends’ lives, and maybe our family’s finances. Our lives have all been dramatically disrupted almost overnight. Some of us are still working, some of us are taking care of children or older adults, some of us are struggling to make ends meet. We should be honest with ourselves - this is an incredibly significant, stressful, and life-altering event we are all collectively experiencing.
+First, though, I think it is important to acknowledge the current situation we are all collectively facing outside of coursework. I assume that all of us are worried about lots of other things, too. You may be wondering if we'll have to leave campus at some point this semester, or if you or your friends or your family will get sick. Millions of Americans, including perhaps you or some of your family members, are struggling financially because of the economic consequences of this virus. Perhaps you are worried about what will happen to them if you are focused on classes? Or how you will focus on classes while also helping them? 
 
-**All of this takes precedence over a semester’s worth of college classes.** I want to make clear that we should not and cannot continue with coursework as though things are the same, but just online now. We can’t ignore the fact that we are living in a moment of uncertainty and crisis. This means we have to be kind to ourselves and each other. It also means all of us, but especially faculty, need drastically re-calibrate our expectations for what we will learn and achieve in courses this semester. This is important because (1) it’s just true (2) our mental health will suffer if we don’t acknowledge this and try to go on as if everything is normal. 
+In March, our lives were dramatically disrupted almost overnight. My wife and I had to worry about what would happen to our daughter if we both got sick. Or if we would see our family, who all live far from Missouri, ever again. Fortunately we did not get sick last spring, and we got to see our families this summer. Now, however, we have new concerns, like what homeschooling a precocious six year-old who should be starting Kindergarten will be like. We should be honest with ourselves - this is an incredibly significant, stressful, and life-altering event we are all collectively experiencing.
 
-## Office Hours
-One way in which I am going try and achieve some semblence of normalcy will be remaining available to you in variety of ways. My office hours will remain the same - Tuesdays, 9am to 11am by [appointment only](https://calendly.com/chris-prener) and 11am to 12pm. These will all occur via Zoom. If you sign-up for an appointment, I'll email you a link for our Zoom meeting. Details on the drop-in Zoom hour will be available via Google Classroom. Please feel free to stop by as often as you would like, and we can use a breakout room if necessary to speak privately. As always, I'll also remain responsive over email and Google Classroom.
+**All of this takes precedence over a semester’s worth of college classes.** I want to make clear that we should not and cannot continue with coursework as if things are "normal." We can’t ignore the fact that we are living in a moment of uncertainty and crisis. This means we have to be kind to ourselves and each other. It also means all of us, but especially faculty, need drastically re-calibrate our expectations for what we will learn and achieve in courses this semester. This is important because (1) it’s just true (2) our mental health will suffer if we don’t acknowledge this and try to go on as if everything is normal. 
 
-## Policy Changes
-Outside of office hours, how will this reality affect our class? I’m making some changes to what you’ll be expected to do and how you’ll be evaluated. My goal is to give you the opportunity to keep learning and engaging with me and each other, but without feeling that the class is a source of stress in your life now. The goal of these changes is to minimize your anxiety and stress while maximizing your opportunity to learn and stay engaged in our learning community.
+## Practice Self Care
+The first thing all of you should do is think about what you need to do for yourselves this semester. I exercise a lot - I run, cycle, and hike every week. If it is raining I lift weights in the basement. I meditate. I have a set daily schedule that I follow even though I'm home. I try to make time to read for pleasure. And I write (ok, vent!) about what is going on each day. 
 
-  * **There will be no second half participation grade.** Everyone will receive full credit in that column, and I will no longer collect attendance. That said, coming to class remains an important part of the course. I will record class sessions using Zoom, but I can't guarantee they will work every time. It is also important to establish a routine for yourself, and to find ways to see other people even if it is only virtually. We're going to all get a lot less interaction with other people than we're used to, and so getting up and spending a little time engaged in coursework is going to be beneficial for our mental health.
-  * **Class meetings will occur via Zoom, and will be shorter.** We will continue to meet Mondays and Wednesdays at 2:10pm Central Time via Zoom. You will all receive an email shortly with an invitation that will be good for the remainder of the semester. We will conclude class around 3pm each day instead of the scheduled 3:25pm time. Recordings and class materials will continue to be made available via Google Classroom.
-  * **There will be no more readings from Anderson.** We'll still have some readings from peer-reviewed journal articles, however.
-  * **There will be no second exam.** This was scheduled for March 23rd, but given the circumstances I am going to give everyone full credit.
-  * **QHQ assignments will be modified.** Instead of a three page paper, please turn in an outline with three parts:
-    1. Your question and hypothesis, each 1 sentence in length,
-    2. ten supporting points, each a 1-3 sentences in length, that outline key parts of your chapter and how they inform your thinking on your question/hypothesis,
-    3. and a concluding question, also one sentence in length.
-  * **QHQ discussions will occur via Zoom.** We'll run these the same way - I'll move all of you into virtual breakout rooms for discussions, and then we'll all return for some final discussion as a large group. These will occur on April 8th and April 29th *as scheduled*. Papers will be due before this session. These sessions may go a bit longer, so please give yourself until 3:15pm on these two days.
-  * **Two documentaries will be required viewing.** These will both be available via streaming from Pius Library.
-  * **A exam will still be given during finals week.** This will be similar to our in-class exams, except that they will occur over Google Forms (for some multiple choice questions) and Google Docs (for a short answer question). This will be timed, and will be facilitated via Google Classroom. The exam will be based on the course meeting materials, the two documentaries, and the remaining readings. It will only cover material starting on March 25th through the last class on May 4th.
+Some of this may be useful to you, and some of it might not be. You need to find what works for you. The fourth part of the <a href="https://sites.google.com/slu.edu/covid-19fall2020preparationmod/home/part-four-encouragement-and-support" target = "_blank">Return to Campus Module</a> provides some suggestions for getting encouragement and support. Please return to that for advice, or feel free to talk to me about strategies you can use. 
+
+## What Class Will Be Like
+Both of my classes will meet "synchronously." This means we have an assigned meeting time, and we'll gather twice a week. Instead of meeting in Morrissey Hall, though, we'll be meeting virtually using a tool called Zoom. Zoom will allow us to get exposed to course content, meet in small groups, and ask questions. It isn't the same, of course, but I am going to do my best to make sure you get as much of the course experience that you would ordinarily receive as I can give you. My decision to teach synchronously was made after spending the summer reflecting on last spring and taking a class on online teaching. My spring semester students overwhelmingly suggested to me that I teach synchronously, and I take feedback from students seriously.
+
+I'll be sharing details about assignments and readings soon in the syllabus, but I wanted to give you all a quick preview of what the class materials will be like. Readings for the semester will come from one of three places:
+
+  1. First, I am using a website called <a href = "https://www.sociologyexperiment.com" target = "_blank">A Sociology Experiment</a> instead of a regular text book. Chapters are written by leading sociologists, and cost $1 each. You'll only pay for the chapters you need. I know that the pandemic has created financial uncertainty for many of us, and providing you excellent resources for the lowest cost possible is important to me. 
+  2. You'll also need to purchase a copy of <a href = "https://press.uchicago.edu/ucp/books/book/chicago/M/bo37936174.html" target = "_blank">*Mama Might Be Better Off Dead*</a>, which retails for around $20 and is available at all the usual places you can buy books.
+  3. I'll also share some readings and documentaries that you can access for free using the Library, even if you are off-campus like I am.
   
-## Modified Schedule
-We'll use the following modified schedule:
+We'll be using Blackboard to access my slides and notes for each lecture, submit assignments, and take one of the three quizzes that will happen this semester. You'll take these outside of class, and have a 12 hour period of time to take each of them. Once you start, you'll have 35 minutes to complete the 30 multiple choice questions. These quizzes aren't cumulative, and make up 25% of your final grade.
 
-  * March 23rd - Check-in and COVID-19 Discussion
-  * March 25th - Social Class in America
-  * March 30th - Social Class and Health
-    * [Dow and Rehkopf 2010](http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-77249121135&site=eds-live)
-  * April 1st - Race in America
-  * April 6th - Racial Discrimination and Health
-    * [Cooper et al. 2003](http://ezp.slu.edu/login?url=https://www.nejm.org/doi/full/10.1056/NEJMsb022863?url_ver=Z39.88-2003) 
-    * [Williams and Sternthal 2010](http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/abs/10.1177/0022146510383838)
-  * April 8th - QHQ2 Discussion
-  * April 13th - *No Class, Easter Break*
-  * April 15th - Gender and Sexuality 
-  * April 20th - Gender and Health
-    * [Krieger 2003](https://academic.oup.com/ije/article/32/4/652/666984)
-  * April 22nd - Indigenous Americans
-    * [Jones 2006](http://ezp.slu.edu/login?url=https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2004.054262) 
-    * [Sarche and Spicer 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2567901/)
-    * View [*Unnatural Causes*, Part 3 - "Bad Sugar"](http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live) after class
-  * April 27th - Intersectionality and Health
-    * [David and Collins Jr. 1997](http://ezp.slu.edu/login?url=https://www.nejm.org/doi/full/10.1056/NEJM199710233371706) 
-    * [Collins Jr. et al 2004](http://ezp.slu.edu/login?url=https://ajph.aphapublications.org/doi/abs/10.2105/ajph.94.12.2132)
-    * View [*Unnatural Causes*, Part 2 - "When the Bough Breaks"](http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live) after class
-  * April 29th - QHQ3 Discussion
-  * May 4th - Course Conclusion
-    * [Quadagno 2010](http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/full/10.1177/0022146510368931) 
-    * [Williams et al. 2010](http://ezp.slu.edu/login?url=https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0071)
-  * May 11th - Exam 3
+Most of your points this semester will therefore come from some short assignments that ask you to reflect on how sociological concepts have shaped your life ("Sociological Experiences"), create research questions based on social theory ("Theory Isn't Dead Posts"), and reflect on the content of *Mama Might Be Better Off Dead* ("QHQ Papers"). Rubrics and examples will be shared via our Blackboard site for each of these assignments.
 
-## Modified Schedule for Honors Students
-I am also making the following changes to the honors section:
-
-  * **Seminar 3 will be rescheduled.** We will meet to discuss extra readings on Gender, Sexuality, and Health during the week of April 20th. However, there will not be a response paper assignment. I will send out a Doodle during the week of March 23rd to schedule this meeting.
-  * **The Op-Ed assignment will proceed as planned.** Please continue to work on your writing assignment over the next few weeks and submit a draft by April 15th. The final submission, including to a publication, should be made by May 4th.
-  * **Seminar 4 will proceed as planned on May 5th to discuss your op-eds.** This will occur via Zoom.
+I also expect that you will come to class. The syllabus will contain the details, but you can point the attendance policy down to this: attending class is important, and I will be keeping track of who comes so I can identify students who might need some additional support. If you can't attend classes occasionally, no worries. Recordings will be made available via Blackboard. That said, there are interactive parts of class that you need to be present for, so please attend as much as you possibly can. There will be a participation grade (10% of your final grade) that reflects these interactive aspects of class.
 
 ## What Happens If I Get Sick?
-If you become unwell, or find yourself taking care of your family or friends, please let me know as soon as possible! Even though I am not taking attendance, I want to make sure students are all well prepared for the exam. I also want to make sure that the modified QHQ assignments are completed. If "as soon as possible" is a few days after a deadline, that is OK. If you need to re-schedule the third exam, that is OK too. I will not ask for documentation, since if you're sick but not *very* sick, the last thing most you will want to do is go to a doctor just to get a note. I am proceeding with a spirit of trust in all of you, and ask you reciprocate that with me. 
+If you become unwell, or find yourself taking care of your family or friends, please let me know as soon as possible! I will not ask for documentation, since if you're sick but not *very* sick, the last thing most you will want to do is go to a doctor just to get a note. I am proceeding with a spirit of trust in all of you, and ask you reciprocate that with me. If you need to modify assignment due dates, please let me know prior to those deadlines.
+
+## What Office Hours Will Be Like
+My office hours are for you! I don't plan to do other things during this period except chat with students. Please feel free to stop by as often as you would like. It's going to be a little intimidating, of course, dropping in to meet someone virtually who you've never met in person. But please take the step and come to office hours. Getting to know you all is one of the best parts of my job, and office hours is one of the best ways to do that.
+
+Just like class, office hours will occur over Zoom as well. There will be two periods:
+
+  1. 9am-10am (by appointment only)
+  2. 10am-10:45am (open)
+
+For the appointment only period, you will be able to sign-up for 15 or 30 minute meetings with me via a service called Calendly. Once you sign-up for a slot, you'll get an invitation that includes Zoom meeting information. For the open, drop-in period, you'll be able to come to a dedicated Zoom meeting that has a "waiting room." I'll bring one student in from the waiting room as a time so that we can meet privately.
 
 ## Provisos
-This is my plan as of March 19th, 2020. I may modify it further as we progress through the remainder of the semester. If I become sick or a member of my family becomes ill, further modifications will likely be required. I will do my best to keep everyone updated in a timely fashion. Please check your email and Google Classroom regularly. I appreciate everyone's willingness to roll with the many punches we are all facing right now. Remember, we are in this together.
-
-## Acknowledgements
-Special thanks to [Dr. Amy Cooper](https://amycooper.net) for sharing her language and policies around COVID-19 modifications, which inspired this document.
+This is my plan as of August 10th, 2020. I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. I will do my best to keep everyone updated in a timely fashion. Please check your email and Blackboard regularly. I appreciate everyone's willingness to roll with the many punches we are all facing right now. Remember, we are in this together.

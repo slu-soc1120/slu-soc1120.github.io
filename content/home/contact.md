@@ -16,5 +16,9 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 0
+
+# Netlify form settings.
+[netlify]
+  captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
