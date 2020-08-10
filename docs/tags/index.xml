@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | SLU SOC 1120</title>
-    <link>https://slu-soc1120.github.io/tags/</link>
-      <atom:link href="https://slu-soc1120.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://slu-soc1120.github.io/images/icon_huc101f2d3186e42bb7a5f0e1f312a0b4b_11646_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huc101f2d3186e42bb7a5f0e1f312a0b4b_11646_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://slu-soc1120.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
   </channel>

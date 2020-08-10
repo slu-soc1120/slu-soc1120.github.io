@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview | SLU SOC 1120</title>
-    <link>https://slu-soc1120.github.io/docs/</link>
-      <atom:link href="https://slu-soc1120.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <link>/docs/</link>
+      <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Dec 2018 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>https://slu-soc1120.github.io/images/icon_huc101f2d3186e42bb7a5f0e1f312a0b4b_11646_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huc101f2d3186e42bb7a5f0e1f312a0b4b_11646_512x512_fill_lanczos_center_2.png</url>
       <title>Overview</title>
-      <link>https://slu-soc1120.github.io/docs/</link>
+      <link>/docs/</link>
     </image>
     
     <item>
       <title>Lecture-01 - Course Introduction</title>
-      <link>https://slu-soc1120.github.io/docs/lecture-01/</link>
+      <link>/docs/lecture-01/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
-      <guid>https://slu-soc1120.github.io/docs/lecture-01/</guid>
+      <guid>/docs/lecture-01/</guid>
       <description>&lt;h2 id=&#34;bob-dylan&#34;&gt;Bob Dylan&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Bob_Dylan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bob Dylan&lt;/a&gt; (b. 1941) is a singer-songwriter who became an icon of 1960s counter-cultural movements, in part due to the 

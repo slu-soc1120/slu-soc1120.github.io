@@ -6,7 +6,8 @@ library(fs)
 dir_delete(path = "docs/")
 
 # build site
-build_site()
+serve_site()
+servr::daemon_stop(1)
 
 # move site to docs/
 dir_copy(path = "public/", new_path = "docs/", overwrite = TRUE) 
