@@ -60,3 +60,6 @@ For the appointment only period, you will be able to sign-up for 15 or 30 minute
 
 ## Provisos
 This is my plan as of August 10th, 2020. I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. I will do my best to keep everyone updated in a timely fashion. Please check your email and Blackboard regularly. I appreciate everyone's willingness to roll with the many punches we are all facing right now. Remember, we are in this together.
+
+## Acknowledgements
+Special thanks to [Dr. Amy Cooper](https://amycooper.net) for sharing her language and policies around COVID-19 modifications, which inspired the original version of this page published in Spring 2020.
