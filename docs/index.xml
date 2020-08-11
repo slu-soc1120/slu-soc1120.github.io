@@ -636,5 +636,14 @@ Our website may link to external sites that are not operated by us. Please be aw
 </description>
     </item>
     
+    <item>
+      <title>Successful QR Code Test!</title>
+      <link>/success/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>/success/</guid>
+      <description>&lt;p&gt;You&amp;rsquo;ve successfully tested your QR code reader! Well done!&lt;/p&gt;
+&lt;div style=&#34;width:100%;height:0;padding-bottom:45%;position:relative;&#34;&gt;&lt;iframe src=&#34;https://giphy.com/embed/11sBLVxNs7v6WA&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/cheer-cheering-11sBLVxNs7v6WA&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
