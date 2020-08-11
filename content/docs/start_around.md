@@ -37,6 +37,6 @@ Each Part has at least two "modules" - collections of lectures, readings, docume
 <br>
 
 ## How Do I Stay Up-to-date?
-First and foremost, come to class. I start every class with "front matter" that includes annoucements and upcoming deadlines. I also end class with "back matter," which reviews some of the most important annoucements.
+First and foremost, come to class. I start every class with "front matter" that includes announcements and upcoming deadlines. I also end class with "back matter," which reviews some of the most important announcements.
 
-I'll also use Blackboard's Annoucements page to send you emails about class. This means you *need to check your email regularly.* This means every day, multiple times per day. 
+I'll also use Blackboard's Announcements page to send you emails about class. This means you *need to check your email regularly.* This means every day, multiple times per day. 
