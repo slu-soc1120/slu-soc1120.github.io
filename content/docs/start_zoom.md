@@ -32,6 +32,9 @@ There is also a <a href = "https://support.zoom.us/hc/en-us/articles/203650445-I
 
 <br>
 
+## What is the Best Way to Arrange my Zoom Meeting?
+I strongly recommend that you use Zoom's <a href = "https://support.zoom.us/hc/en-us/articles/115004802843-Side-by-side-Mode-for-screen-sharing" target = "_blank">side-by-side mode</a> for screen sharing. When you are in side-by-side mode, choosing "Speaker View" will limit the number of webcams you see to just the person speaking. This arrangement allows you to see both my slides and me at the same time, and can be adjusted with your mouse to make the slides smaller or larger.
+
 ## Do I Have To Use My Microphone
 When you come to class, please mute your microphone. If I call on you and you've raised your hand, please remember to un-mute yourself before speaking!
 
