@@ -50,6 +50,5 @@ By the *end* of the semester, you should be able to:
 
   1. Describe the major theoretical traditions within sociology and the way that we use social theory, and apply these theories to current events.
   2. Identify sociological contributions to a number of substantive areas, including urban sociology, crime and deviance, race, class, and gender.
-  3. Integrate these perspectives on health disparities into analyses of the book *Mama Might Be Better Off Dead*.
-  4. Apply core sociological concepts by analyzing data and your own experiences to understand how they reflect fundamental social issues.
-  5. Integrate core sociological concepts into analysis of population health and health disparities using both the fundamental cause theory and the social determinants of health perspective as well as other sociological concepts and data.
+  3. Apply core sociological concepts by analyzing data and your own experiences to understand how they reflect fundamental social issues.
+  4. Integrate core sociological concepts into analyses of population health and health disparities using both fundamental cause theory and the social determinants of health perspective as well as other sociological concepts and data.
