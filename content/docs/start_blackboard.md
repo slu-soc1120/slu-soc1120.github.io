@@ -30,7 +30,7 @@ You'll be taken to the `Annoucements` page, and can use the left-hand menu to ac
 
 <br>
 
-## Netiqutte Considerations
+## Netiquette Considerations
 Netiquette is a set of cultural norms (we'll discuss these this semester!) for interacting with classmates online. Different professors might have slightly different ideas about what is appropriate, so don't assume that everything below applies to all classes. These are adapted from <a href="https://tilt.colostate.edu/TipsAndGuides/Tip/128" target="_blank">Colorado State's guide to online discussions</a> and also include some of SLU's best practices.
 
   1. **No lurking**: This class requires active participation, you can't just follow discussion board conversations. Please participate!
