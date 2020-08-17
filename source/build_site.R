@@ -3,7 +3,7 @@ library(blogdown)
 library(fs)
 
 # clean-up current site
-dir_delete(path = "docs/")
+# dir_delete(path = "docs/")
 
 # build site
 serve_site()
