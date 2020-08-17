@@ -3,9 +3,14 @@ library(blogdown)
 library(fs)
 
 # clean-up current site
-dir_delete(path = "docs/")
+if (dir_exists(path = "docs/") == TRUE){
+  dir_delete(path = "docs/") 
+}
 
 # build site
+if (length(servr::daemon_list()) > 0){
+  servr::daemon_stop(1) 
+}
 serve_site()
 servr::daemon_stop(1)
 

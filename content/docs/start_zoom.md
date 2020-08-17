@@ -37,7 +37,7 @@ I strongly recommend that you use Zoom's <a href = "https://support.zoom.us/hc/e
 
 <br>
 
-## Do I Have To Use My Microphone
+## Do I Have To Use My Microphone?
 When you come to class, please mute your microphone. If I call on you and you've raised your hand, please remember to un-mute yourself before speaking!
 
 <br>
