@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus, Section 01](https://slu-soc1120.github.io/syllabus-alt/)"
+  name = "[Syllabus, Section 01](#)"
   description = "policies, schedule for Section 01"  
   
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus, Section 05](https://slu-soc1120.github.io/syllabus/)"
+  name = "[Syllabus, Section 05](#)"
   description = "policies, schedule for Section 05"  
   
 [[feature]]
@@ -39,10 +39,10 @@ subtitle = ""
   description = "slots available Thursdays, 9am to 10am"
 
 [[feature]]
-  icon = "newspaper"
-  icon_pack = "far"
-  name = "[Wall Street Journal](https://education.wsj.com/students/)"
-  description = "free subscription via SLU's library" 
+  icon = "book-open"
+  icon_pack = "fas"
+  name = "*[A Sociology Experiment](http://sociologyexperiment.com)*"
+  description = "main course textbook" 
   
 [[feature]]
   icon = "briefcase"
