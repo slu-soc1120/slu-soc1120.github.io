@@ -8,9 +8,6 @@ if (dir_exists(path = "docs/") == TRUE){
 }
 
 # build site
-if (length(servr::daemon_list()) > 0){
-  servr::daemon_stop(1) 
-}
 serve_site()
 servr::daemon_stop(1)
 

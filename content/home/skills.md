@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus, Section 01](#)"
+  name = "[Syllabus, Section 01](https://slu-soc1120.github.io/syllabus-alt/)"
   description = "policies, schedule for Section 01"  
   
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus, Section 05](#)"
+  name = "[Syllabus, Section 05](https://slu-soc1120.github.io/syllabus/)"
   description = "policies, schedule for Section 05"  
   
 [[feature]]
