@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "[Blackboard](https:://blackboard.slu.edu)"
+  name = "[Blackboard](https://blackboard.slu.edu)"
   description = "slides, notes, assignment submission"  
 
 [[feature]]
