@@ -5,12 +5,31 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>SLU SOC 1120</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 -0400</lastBuildDate>
     <image>
       <url>/images/icon_huc101f2d3186e42bb7a5f0e1f312a0b4b_11646_512x512_fill_lanczos_center_2.png</url>
       <title>SLU SOC 1120</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Lecture-02 - Social Theory</title>
+      <link>/docs/lecture-02/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
+      <guid>/docs/lecture-02/</guid>
+      <description>&lt;h2 id=&#34;supplemental-lectures&#34;&gt;Supplemental Lectures&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href = &#34;&#34; target = &#34;_blank&#34;&gt;A Sociology Experiment&lt;/a&gt;&lt;/em&gt; has a number of supplemental lectures that are relevant to this lecture&amp;rsquo;s topics.&lt;/p&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/dpn1EIib9bM&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;emile-durkheim&#34;&gt;Emile Durkheim&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/gQv90bo2E6M&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;karl-marx&#34;&gt;Karl Marx&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DHdPP7X3T_4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;max-weber&#34;&gt;Max Weber&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/OBhUvrHMeQ0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;web-dubois-and-jane-addams&#34;&gt;W.E.B. DuBois and Jane Addams&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/I0v5bsoZBeI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>Getting Around SOC 1120</title>
