@@ -44,6 +44,32 @@
     </item>
     
     <item>
+      <title>Lecture-07 - Socialization</title>
+      <link>/docs/lecture-07/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 -0400</pubDate>
+      <guid>/docs/lecture-07/</guid>
+      <description>&lt;h2 id=&#34;socialization&#34;&gt;Socialization&lt;/h2&gt;
+&lt;p&gt;If you are looking to go further on this week&amp;rsquo;s topics, I recommend this short encyclopedia entry on 
+&lt;a href=&#34;https://www-sciencedirect-com.ezp.slu.edu/science/article/pii/B0080430767019641&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;socialization&lt;/a&gt; as well as this recent 
+&lt;a href=&#34;https://osf.io/preprints/socarxiv/zp2wy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;pre-print&amp;rdquo;&lt;/a&gt; reviewing the topic in sociology.&lt;/p&gt;
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+&lt;p&gt;We briefly mentioned the following people:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Charles_Cooley&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Horton Cooley&lt;/a&gt; (1864-1929) -American sociologist who developed the theory of the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Looking-glass_self&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;looking glass self&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www-sciencedirect-com.ezp.slu.edu/science/article/pii/B0080430767002497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erving Goffman&lt;/a&gt; (1921-1982) - American sociologist who made significant contributions to symbolic interactionism.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Pierre_Bourdieu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pierre Bourdieu&lt;/a&gt; (1930-2002) - French sociologist who made significant contributions to the sociology of culture and eudcation, among other fields.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ezp.slu.edu/login?url=https://www.sciencedirect.com/science/article/pii/B0080430767003168&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talcott Parsons&lt;/a&gt; (1902-1979) - American sociologist best known for his now largely discredited theory of 
+&lt;a href=&#34;https://www-sciencedirect-com.ezp.slu.edu/science/article/pii/B0080430767018866&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;structural functionalism&lt;/a&gt;. His work had a significant impact on the sociology of socialization.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lecture-08 - Medicalization</title>
       <link>/docs/lecture-08/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 -0400</pubDate>
@@ -855,44 +881,6 @@ Our website may link to external sites that are not operated by us. Please be aw
       <guid>/success/</guid>
       <description>&lt;p&gt;You&amp;rsquo;ve successfully tested your QR code reader! Well done!&lt;/p&gt;
 &lt;div style=&#34;width:100%;height:0;padding-bottom:45%;position:relative;&#34;&gt;&lt;iframe src=&#34;https://giphy.com/embed/11sBLVxNs7v6WA&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/cheer-cheering-11sBLVxNs7v6WA&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/lecture-07/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/lecture-07/</guid>
-      <description>&lt;p&gt;title = &amp;ldquo;Lecture-07 - Socialization&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;date = 2020-09-10T00:00:00
-lastmod = 2020-09-10T00:00:00&lt;/p&gt;
-&lt;p&gt;draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = &amp;ldquo;docs&amp;rdquo;  # Do not modify.&lt;/p&gt;
-&lt;h1 id=&#34;add-menu-entry-to-sidebar&#34;&gt;Add menu entry to sidebar.&lt;/h1&gt;
-&lt;p&gt;linktitle = &amp;ldquo;Lecture-07 - Socialization&amp;rdquo;
-[menu.docs]
-parent = &amp;ldquo;Module 2&amp;rdquo;
-weight = 3
-+++&lt;/p&gt;
-&lt;h2 id=&#34;socialization&#34;&gt;Socialization&lt;/h2&gt;
-&lt;p&gt;If you are looking to go further on this week&amp;rsquo;s topics, I recommend this short encyclopedia entry on 
-&lt;a href=&#34;https://www-sciencedirect-com.ezp.slu.edu/science/article/pii/B0080430767019641&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;socialization&lt;/a&gt; as well as this recent 
-&lt;a href=&#34;https://osf.io/preprints/socarxiv/zp2wy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;pre-print&amp;rdquo;&lt;/a&gt; reviewing the topic in sociology.&lt;/p&gt;
-&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
-&lt;p&gt;We briefly mentioned the following people:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Charles_Cooley&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Horton Cooley&lt;/a&gt; (1864-1929) -American sociologist who developed the theory of the 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Looking-glass_self&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;looking glass self&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www-sciencedirect-com.ezp.slu.edu/science/article/pii/B0080430767002497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erving Goffman&lt;/a&gt; (1921-1982) - American sociologist who made significant contributions to symbolic interactionism.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Pierre_Bourdieu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pierre Bourdieu&lt;/a&gt; (1930-2002) - French sociologist who made significant contributions to the sociology of culture and eudcation, among other fields.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://ezp.slu.edu/login?url=https://www.sciencedirect.com/science/article/pii/B0080430767003168&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talcott Parsons&lt;/a&gt; (1902-1979) - American sociologist best known for his now largely discredited theory of 
-&lt;a href=&#34;https://www-sciencedirect-com.ezp.slu.edu/science/article/pii/B0080430767018866&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;structural functionalism&lt;/a&gt;. His work had a significant impact on the sociology of socialization.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
