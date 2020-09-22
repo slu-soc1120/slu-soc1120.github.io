@@ -52,3 +52,11 @@
   name = "Module 2"
   weight = 30
   
+[[docs]]
+  name = "Module 3"
+  weight = 40
+  
+[[docs]]
+  name = "Module 4"
+  weight = 50
+  

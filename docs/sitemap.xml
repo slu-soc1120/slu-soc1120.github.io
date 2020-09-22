@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/docs/lecture-09/</loc>
+    <lastmod>2020-09-22T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/lecture-10/</loc>
+    <lastmod>2020-09-22T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/lecture-11/</loc>
+    <lastmod>2020-09-22T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-22T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/docs/lecture-06/</loc>
     <lastmod>2020-09-10T00:00:00-04:00</lastmod>
   </url>
@@ -14,11 +34,6 @@
   
   <url>
     <loc>/docs/lecture-08/</loc>
-    <lastmod>2020-09-10T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-09-10T00:00:00-04:00</lastmod>
   </url>
   
