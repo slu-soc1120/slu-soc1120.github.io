@@ -53,5 +53,5 @@ subtitle = ""
 An introduction to the discipline of sociology, with a particular emphasis on health disparities and health care in the United States. This site is for <a href="https://chris-prener.github.io" target="_blank">Chris Prener's</a> sections only.
 
 {{% alert warning %}}
-**COVID-19 Pandemic:** For the Spring 2021 semester, this course has been modified to accomodate remote learning. Please read about the modifications [here](/covid19).
+**COVID-19 Pandemic:** For the Spring 2021 semester, this course has been modified to accommodate remote learning. Please read about the modifications [here](/covid19).
 {{% /alert %}}
