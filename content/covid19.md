@@ -12,9 +12,9 @@ header:
   image: ""
 ---
 
-We are starting this semester with a ton of questions. Many of you are wondering what campus life will be like with the new social distancing requirements. You may be wondering, or even struggling with, what starting college this semester will be like. What will classes be like in-person? And what about courses that are online, like this one? How am I going to study with my friends? How will you complete assignments? 
+We're once again facing a semester dramatically altered by our public health situation, though with both more risk (in the form of mutations to the SARS-CoV-2 virus that causes COVID-19) and more hope (in the form of vaccines). Like last semester, this means we are starting another semester with what feel like novel questions. Will social distancing requirements be relaxed at any point before May? When will we be able to get vaccinated? What happens if we get sick before we can get a shot? If this is your first semester at SLU, you probably have even more questions about starting at a new institution in the middle of a pandemic.
 
-I've been reflecting this summer about how novel this all still feels. I suspect, though, that the Billikens who arrived on campus in the fall of 1918 had similar questions. SLU turned 100 years old that year, and despite the pandemic, we're still around, having just celebrated the completion of our bicentennial. I share this to say - we'll get through this, just like the classes of 1919, 1920, 1921, and 1922 did.
+I've been reflecting this summer about how novel this all still feels even though we are nearly ten months into this odyssey. I suspect, though, that the Billikens who arrived on campus in the fall of 1918 had similar questions. SLU turned 100 years old that year, and despite the pandemic, we're still around, having just celebrated the completion of our bicentennial. I share this to say - we'll get through this, just like the classes of 1919, 1920, 1921, and 1922 did.
 
 My goal for this page is to clarify, at least for the context of my SOC 1120 sections, what this course will be like this semester as we navigate our "new normal." I hope doing so reduces some of the ambiguity and stress related to this class and your fall semesters.
 
