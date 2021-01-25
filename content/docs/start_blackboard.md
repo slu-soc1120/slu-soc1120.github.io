@@ -2,7 +2,7 @@
 title = "Tips for Using Blackboard"
 
 date = 2020-08-11T00:00:00
-lastmod = 2020-08-11T00:00:00
+lastmod = 2021-01-25T00:00:00
 
 draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
@@ -21,7 +21,7 @@ linktitle = "Using Blackboard"
 <br>
 
 ## How Do I Use Blackboard?
-Go to <a href = "http://blackboard.slu.edu" target = "_blank">the SLU Blackboard login page</a>. You may be prompted to use your username, password, and multi-factor authentication credentials when you login. On the landing page, look for either `FL2020 SOC-1120-01-Introduction to Sociology: Diversity and Health Emphasis` or `FL2020 SOC-1120-05 & SOC-1120-H05` depending on which section you are enrolled in. 
+Go to <a href = "http://blackboard.slu.edu" target = "_blank">the SLU Blackboard login page</a>. You may be prompted to use your username, password, and multi-factor authentication credentials when you login. On the landing page, look for `SP2021 SOC-1120-02 & SOC-1120-H02`. 
 
 <br>
 

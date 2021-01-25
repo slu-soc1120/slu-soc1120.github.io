@@ -104,7 +104,7 @@ directions = "I am remote this academic year!"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Thursday 9:00 to 10:00 CST (by appointment)", "Thursday 10:00 to 10:45 CST (drop-in)"]
+office_hours = ["Wednesday 9:00 to 10:00 CST (by appointment)", "Wednesday 10:00 to 10:45 CST (drop-in)"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/chris-prener"

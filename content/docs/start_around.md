@@ -2,7 +2,7 @@
 title = "Getting Around SOC 1120"
 
 date = 2020-08-11T00:00:00
-lastmod = 2020-08-11T00:00:00
+lastmod = 2021-01-25T00:00:00
 
 draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
@@ -23,6 +23,8 @@ There are three big resources that you'll be using this semester to take this cl
   3. Finally, we have this **[course website](https://slu-soc1120.github.io)** that includes links to all of these materials as well as a "docs" section that has additional links to videos, news stories, biographies, and other relevant materials. These will help you get the most out of the class! I do this publicly so that I can share these resources between sections.
 
 I do my best to provide links between these difference sources as often as possible. However, I recommend bookmarking the course website, which includes links to everything.
+
+<br>
 
 ## How Is the Course Organized?
 The course is organized into four parts:

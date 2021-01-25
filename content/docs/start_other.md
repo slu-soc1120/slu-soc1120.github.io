@@ -2,7 +2,7 @@
 title = "Other Tips"
 
 date = 2020-08-11T00:00:00
-lastmod = 2020-08-11T00:00:00
+lastmod = 2021-01-25T00:00:00
 
 draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
@@ -25,8 +25,8 @@ We don't always do a great job of explaining office hours to students, so I've p
 
 For the 2020-2021 academic year, there are two types of office hours that I have:
 
-  1. Appointments: Appoints are available for an hour each week from 9am CST to 10am CST on Thursdays. You can sign-up for an appointment by visiting my <a href = "https://calendly.com/chris-prener" target = "_blank">Calendly page</a>. Select either a 15 minute or 30 minute meeting, and fill out your details. Once you submit the meeting request, you'll receive a calendar invitation and a Zoom link.
-  2. Drop-in: From 10am CST to 10:45am CST on Thursday, I'll be available via Zoom for drop-in office hours. No appointment is required, and you'll be able to come to a dedicated Zoom meeting that has a "waiting room." I'll bring one student in from the waiting room as a time so that we can meet privately. The link for this is available on Blackboard.
+  1. Appointments: Appoints are available for an hour each week from 9am CST to 10am CST on Wednesdays. You can sign-up for an appointment by visiting my <a href = "https://calendly.com/chris-prener" target = "_blank">Calendly page</a>. Select either a 15 minute or 30 minute meeting, and fill out your details. Once you submit the meeting request, you'll receive a calendar invitation and a Zoom link.
+  2. Drop-in: From 10am CST to 10:45am CST on Wednesdays, I'll be available via Zoom for drop-in office hours. No appointment is required, and you'll be able to come to a dedicated Zoom meeting that has a "waiting room." I'll bring one student in from the waiting room as a time so that we can meet privately. The link for this is available on Blackboard.
 
 If these times do not work for your class schedule, please email me to set-up a meeting at another time! I'll work with you to find a time that works for both of our schedules.
 

@@ -23,14 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus, Section 01](https://slu-soc1120.github.io/syllabus-alt/)"
-  description = "policies, schedule for Section 01"  
-  
-[[feature]]
-  icon = "book"
-  icon_pack = "fas"
-  name = "[Syllabus, Section 05](https://slu-soc1120.github.io/syllabus/)"
-  description = "policies, schedule for Section 05"  
+  name = "[Syllabus, Section 02](https://slu-soc1120.github.io/syllabus/)"
+  description = "policies, schedule for Section 02"  
   
 [[feature]]
   icon = "calendar-alt"
@@ -49,6 +43,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "[Course Docs](/docs/)"
   description = "related articles, news, and media" 
+
+# [[feature]]
+#  icon = "book"
+#  icon_pack = "fas"
+#  name = "[Syllabus, Section 05](https://slu-soc1120.github.io/syllabus/)"
+#  description = "policies, schedule for Section 05"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
