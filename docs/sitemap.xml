@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://slu-soc1120.github.io/covid19/</loc>
+    <lastmod>2021-01-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://slu-soc1120.github.io/docs/lecture-09/</loc>
     <lastmod>2020-09-22T00:00:00-05:00</lastmod>
   </url>
@@ -80,6 +85,21 @@
   <url>
     <loc>https://slu-soc1120.github.io/docs/lecture-01/</loc>
     <lastmod>2020-01-12T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slu-soc1120.github.io/license/</loc>
+    <lastmod>2019-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slu-soc1120.github.io/terms/</loc>
+    <lastmod>2019-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slu-soc1120.github.io/success/</loc>
+    <lastmod>2019-03-19T00:00:00+01:00</lastmod>
   </url>
   
   <url>

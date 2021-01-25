@@ -9,7 +9,7 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Lecture-10 - Culture and Health"
+linktitle = "Lecture-09 - Culture and Health"
 [menu.docs]
   parent = "Module 3"
   weight = 1

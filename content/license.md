@@ -1,7 +1,7 @@
 ---
 title: License
 date: "2019-08-10T00:00:00+01:00"
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
