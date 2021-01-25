@@ -8,8 +8,7 @@ if (dir_exists(path = "docs/") == TRUE){
 }
 
 # build site
-serve_site()
-servr::daemon_stop(1)
+build_site()
 
 # move site to docs/
 dir_copy(path = "public/", new_path = "docs/", overwrite = TRUE) 
