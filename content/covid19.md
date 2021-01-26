@@ -1,5 +1,5 @@
 ---
-title: CVOID-19 Pandemic - Plans for Remote Learning
+title: COVID-19 Pandemic - Plans for Remote Learning
 date: "2021-01-25T00:00:00+01:00"
 draft: false
 share: false
