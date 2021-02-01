@@ -30,7 +30,7 @@ subtitle = ""
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "[Office Hours Sign-up](https://calendly.com/chris-prener)"
-  description = "slots available Thursdays, 9am to 10am"
+  description = "slots available Wednesdays, 9am to 10am"
 
 [[feature]]
   icon = "book-open"
