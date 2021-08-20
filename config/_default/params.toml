@@ -100,11 +100,11 @@ phone = ""
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "I am remote this academic year!"
+directions = "Other than teaching, I am remote this semester!"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Wednesday 9:00 to 10:00 CST (by appointment)", "Wednesday 10:00 to 10:45 CST (drop-in)"]
+office_hours = ["Wednesday 9:00 to 10:30 CST (by appointment only and via Zoom)"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/chris-prener"

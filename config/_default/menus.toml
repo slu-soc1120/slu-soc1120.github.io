@@ -45,6 +45,10 @@
   weight = 10
   
 [[docs]]
+  name = "Resources"
+  weight = 15  
+
+[[docs]]
   name = "Module 1"
   weight = 20
 
@@ -59,4 +63,28 @@
 [[docs]]
   name = "Module 4"
   weight = 50
+  
+[[docs]]
+  name = "Module 5"
+  weight = 60  
+  
+[[docs]]
+  name = "Module 6"
+  weight = 70
+  
+[[docs]]
+  name = "Module 7"
+  weight = 80
+  
+[[docs]]
+  name = "Module 8"
+  weight = 90
+  
+[[docs]]
+  name = "Module 9"
+  weight = 100
+  
+[[docs]]
+  name = "Module 10"
+  weight = 110
   

@@ -23,14 +23,20 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus, Section 02](https://slu-soc1120.github.io/syllabus/)"
-  description = "policies, schedule for Section 02"  
+  name = "[Syllabus, Section 01](https://slu-soc1120.github.io/syllabus-alt/)"
+  description = "policies, schedule for Section 01"  
+
+[[feature]]
+  icon = "book"
+  icon_pack = "fas"
+  name = "[Syllabus, Section 05](https://slu-soc1120.github.io/syllabus/)"
+  description = "policies, schedule for Section 05"  
   
 [[feature]]
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "[Office Hours Sign-up](https://calendly.com/chris-prener)"
-  description = "slots available Wednesdays, 9am to 10am"
+  description = "slots available Wednesdays, 9am to 10:30am"
 
 [[feature]]
   icon = "book-open"

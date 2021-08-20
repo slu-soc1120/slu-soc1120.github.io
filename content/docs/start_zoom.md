@@ -15,6 +15,10 @@ linktitle = "Using Zoom"
   weight = 3
 +++
 
+{{% alert warning %}}
+Some of these instructions are written for and retained in case we have to move to teaching remotely. Give them a quick read anyway, because some parts will apply to office hours even if we are meeting face to face.
+{{% /alert %}}
+
 ## What is Zoom?
 **Zoom** is video conferencing software that we'll be using this semester for class meetings and office hours. 
 
