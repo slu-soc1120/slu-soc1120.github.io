@@ -46,4 +46,4 @@ subtitle = ""
  css_class = ""
 +++
 
-If you want a taste of what the class is like, I've made the initial lecture's [slides](https://speakerdeck.com/chrisprener/intro-to-sociology-lecture-01-course-introduction) and [notes](/files/lecture-01-notes.pdf) publicly available.
+If you want a taste of what the class is like, I've made older versions of the initial lecture's [slides](https://speakerdeck.com/chrisprener/intro-to-sociology-lecture-01-course-introduction) and [notes](/files/lecture-01-notes.pdf) publicly available.

@@ -46,4 +46,10 @@ subtitle = ""
  css_class = ""
 +++
 
-Sociology is the empirical study of group and social life. Like all introductory courses, SOC 1120 provides an overview of the basic topics that sociologists regularly engage with under this broad definition. These include the theories used to hypothesize about the social world, the methods used to explore it, and the most common social phenomena we study. For each topic we discuss, specific examples from the sociology of medicine, the sociology of health and illness, and social epidemiology are used. The course meets Saint Louis University's [Cultural Diversity in the U.S. and Social Science](https://www.slu.edu/arts-and-sciences/student-resources/core-curriculum/core-requirements.php) core curriculum requirements.
+Sociology is the empirical study of group and social life. Like all introductory courses, SOC 1120 provides an overview of the basic topics that sociologists regularly engage with under this broad definition. These include the theories used to hypothesize about the social world, the methods used to explore it, and the most common social phenomena we study. For each topic we discuss, specific examples from the sociology of medicine, the sociology of health and illness, and social epidemiology are used. 
+
+The course fits into both the legacy core curriculum as well as the new core curriculum:
+
+  * The course meets Saint Louis University's [Cultural Diversity in the U.S. and Social Science](https://www.slu.edu/arts-and-sciences/student-resources/core-curriculum/core-requirements.php) attributes in the _legacy_ core.
+  * The course meets Saint Louis University's [Equity and Global Indentities - Identities in Context](https://www.slu.edu/provost/university-undergraduate-core/index.php) and [Ways of Thinking - Social and Behavioral Sciences](https://www.slu.edu/provost/university-undergraduate-core/index.php) attributes in the _new_ core.
+  

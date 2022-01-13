@@ -17,20 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "[Blackboard](https://blackboard.slu.edu)"
+  name = "[Canvas](https://canvas.slu.edu)"
   description = "slides, notes, assignment submission"  
 
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus, Section 01](https://slu-soc1120.github.io/syllabus-alt/)"
-  description = "policies, schedule for Section 01"  
-
-[[feature]]
-  icon = "book"
-  icon_pack = "fas"
-  name = "[Syllabus, Section 05](https://slu-soc1120.github.io/syllabus/)"
-  description = "policies, schedule for Section 05"  
+  name = "[Syllabus, Section 02](https://slu-soc1120.github.io/syllabus/)"
+  description = "policies, schedule for Sections 02 and H02"  
   
 [[feature]]
   icon = "calendar-alt"
@@ -43,12 +37,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "*[A Sociology Experiment](http://sociologyexperiment.com)*"
   description = "main course textbook" 
-  
-[[feature]]
-  icon = "briefcase"
-  icon_pack = "fas"
-  name = "[Course Docs](/docs/)"
-  description = "related articles, news, and media" 
 
 # [[feature]]
 #  icon = "book"
